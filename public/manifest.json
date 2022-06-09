@@ -1,0 +1,25 @@
+{
+  "short_name": "Finance tracker",
+  "name": "Finance tracker by pnrdr",
+  "icons": [
+    {
+      "src": "wallet.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "wallet192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "wallet512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
